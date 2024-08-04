@@ -1,1 +1,4 @@
-
+{
+    "version": "1.0.1",  // актуальная версия
+    "url": "https://github.com/ваш-пользователь/ваш-репозиторий/releases/latest/download/ваш-файл.zip"
+}
